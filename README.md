@@ -34,11 +34,7 @@ Create different tickets from the user portal and address them in the osTicket a
 
 ![20](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/4dba2377-26e5-4910-9de2-d49e997cd990)
 
-
-![Screenshot 2024-01-24 183945](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/e4a5bf3c-2cf6-4937-b257-ff8f5ba21164)
-
-![Screenshot 2024-01-24 184106](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/10579aab-e23e-43dd-a1b8-6346729d71c9)
-
+![22](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/5cb5fff2-7072-4a26-9fba-2cd4d971d1aa)
 
 
 ![Screenshot 2024-01-24 202641](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/9dac6869-9221-4366-b17a-2239815255c6)
