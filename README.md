@@ -27,6 +27,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
+- <h2>Ticket examples</h2>
+- Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
+- Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
+- Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
+
 <h2>Lifecycle Stages</h2>
 Create different tickets from the user portal and address them in the osTicket admin website
 
