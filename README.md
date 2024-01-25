@@ -30,14 +30,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 Create different tickets from the user portal and address them in the osTicket admin website
 
+![21](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/ce5ce384-195a-4e73-965f-c85d45d13824)
 
-![Screenshot 2024-01-24 174507](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/cbd54391-5e91-44bf-8086-dc198ee50a6e)
+![20](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/4dba2377-26e5-4910-9de2-d49e997cd990)
+
 
 ![Screenshot 2024-01-24 183945](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/e4a5bf3c-2cf6-4937-b257-ff8f5ba21164)
 
 ![Screenshot 2024-01-24 184106](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/10579aab-e23e-43dd-a1b8-6346729d71c9)
 
-![Screenshot 2024-01-24 202447](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/028faab3-3b34-4e24-a978-49c7d92cce3c)
+
 
 ![Screenshot 2024-01-24 202641](https://github.com/boluadunbarin/ticket-lifecycle/assets/157642328/9dac6869-9221-4366-b17a-2239815255c6)
 
